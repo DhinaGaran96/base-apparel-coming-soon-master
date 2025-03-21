@@ -76,7 +76,7 @@
     cursor:pointer;
     border:none;
     position: absolute;
-    top:74%;
+    top:70.5%;
     left: 32.3%;
 
 }
@@ -105,7 +105,7 @@
     }
     .details button 
     {
-        top:65%;
+        top:62.7%;
         left:31.4%;
     }
     
@@ -136,15 +136,15 @@
     }
     .details button
     {
-        top:78.5%;
-        left:35%;
+        top:75.5%;
+        left:37%;
     }
 }
 @media screen and (max-width: 768px)
 {
     .details button 
     {
-        top:105%;
+        top:101%;
         left:48%;
     }
 }
